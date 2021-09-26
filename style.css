@@ -15,7 +15,7 @@
     height: 100%;
     transition: transform 1s;
     transform-style: preserve-3d;
-  }.´[f]
+  }
   
   .flip-container:nth-child(1):hover .flipper {
     transform: rotateY(180deg);
